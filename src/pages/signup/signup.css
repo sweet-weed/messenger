@@ -1,0 +1,10 @@
+@import '../../layout/auth/auth.css';
+@import '../../modules/form/form.css';
+
+.signup-page {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    background: #a2bc86;
+}

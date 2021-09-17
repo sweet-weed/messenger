@@ -1,0 +1,9 @@
+@import '../main/main.css';
+
+.auth {
+    flex-grow: 1;
+}
+
+.welcome {
+    min-height: 33%;
+}

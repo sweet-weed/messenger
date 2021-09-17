@@ -1,0 +1,21 @@
+.welcome {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    flex-direction: column;
+
+    text-align: center;
+
+    &__title {
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        white-space: nowrap;
+        color: #ffffff;
+    }
+}

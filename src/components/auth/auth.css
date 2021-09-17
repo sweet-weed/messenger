@@ -1,0 +1,28 @@
+.auth {
+    display: flex;
+    flex-direction: column;
+    background: #fcfcfc;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    padding: 64px 32px;
+}
+
+.auth-form {
+    &__fieldset {
+        display: flex;
+        flex-direction: column;
+    }
+
+    &__legend {
+        text-align: center;
+        margin-bottom: 32px;
+    }
+
+    &__item {
+        margin-bottom: 24px;
+    }
+
+    &__submit-button {
+        align-self: flex-end;
+    }
+}

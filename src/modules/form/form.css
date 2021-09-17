@@ -1,0 +1,45 @@
+.form-fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.form-legend {
+    padding: 0;
+    margin: 0;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #151614;
+}
+
+.form-input {
+    padding: 16px;
+    background: #fcfcfc;
+    border: 1px solid #838383;
+    border-radius: 8px;
+    width: 100%;
+
+    border-radius: 8px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.submit-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    border: 0;
+    background: linear-gradient(0deg, #a2bc86, #a2bc86);
+    border-radius: 8px;
+}
