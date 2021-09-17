@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chat app
 
 An Attempt to make a chat application.
@@ -19,3 +20,6 @@ Other urls
 
 -   Build: `npm run start`
 -   Start static server: `npm run server`
+=======
+https://github.com/sweet-weed/messenger/pull/1
+>>>>>>> 8d0c88f6f6764a3ae1f66ae0a239c25c0ad22759
