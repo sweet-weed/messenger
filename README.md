@@ -7,7 +7,7 @@ An Attempt to make a chat application.
 Other urls
 
 -   [signin page](https://nostalgic-pasteur-2a35b4.netlify.app/signin)
--   [signup page](ttps://nostalgic-pasteur-2a35b4.netlify.app/signup)
+-   [signup page](https://nostalgic-pasteur-2a35b4.netlify.app/signup)
 -   [profile page](https://nostalgic-pasteur-2a35b4.netlify.app/profile)
 -   [error page](https://nostalgic-pasteur-2a35b4.netlify.app/error)
 -   [conversation page(not ready yet)](https://nostalgic-pasteur-2a35b4.netlify.app/conversation)
