@@ -1,0 +1,18 @@
+@import '../../layout/main/main.css';
+
+.profile-page {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    background: #a2bc86;
+}
+
+.app-header {
+    min-height: 33%;
+    margin-bottom: 48px;
+}
+
+.user-info {
+    flex-grow: 1;
+}
